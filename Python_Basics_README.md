@@ -1,0 +1,4 @@
+In this section under every sub-section come up with 2-3 example problems of your choice and execute. This section is optional but its better if we dont skip it
+Under OOPS sub section read through all the OOPS concepts (polymorphism, encapsulation, inheritance, data abstraction) and write example code explaining the concepts 
+Contribution must be equal (e.g. if 1 contributor pushes 3 example problems for a given sub section the other contributor must match the commit but must not blatantly copy it)
+Markdown section is for writing fundamental concepts followed by example code. Each contributor must write what they think about the concept at hand in their own words (onine resources can be used to refer concepts but must not be blatantly copied)
