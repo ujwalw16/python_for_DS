@@ -36,5 +36,15 @@ Here's the plan of action.
         3. FP Growth   
  3. Semi Supervised
     1. Text Classification
- 
     
+6. Usecases - 10 Problem statement -> Code 
+   1. 
+   2. 
+   3. 
+   4. 
+   5. 
+   6. 
+   7. 
+   8. 
+   9. 
+   10. 
