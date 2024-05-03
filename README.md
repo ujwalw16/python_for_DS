@@ -1,11 +1,17 @@
 # python_for_DS
 Here's the plan of action.
 1. Python Basics - Datatypes, Operators, Operations, Dictionaries, OOPs, Class/object, Flowcontrol(for,while), Functions, File Operations, Try & E xcept. 2-3 Example Codes per section
+
 2. Walthrough all the major libraries and packages and what are they used for (pandas, numpy, matplotlib, scikit-learn, seaborn, tensorflow, pytorch, scipy, keras, nltk). Skim Cheat Sheets 
+
 3. Probability with Python. Theory -> Code
+
 4. Statistics with Python.  Theory -> Code
+
 5. Exploratory Data Analysis. Code
+
 6. Machine Learning. Theory -> Code (1 example problem per section)
+
    1. Supervised 
       1. Regression
         1. Linear regression
@@ -20,7 +26,7 @@ Here's the plan of action.
         3. K Nearest Neighbors(KNN)
         4. Naive Bayes
         5. Surface Vector Machines
-  2. Unsupervised
+   2. Unsupervised
       1. Clustering 
         1. K means
         2. Mean shift
@@ -34,10 +40,10 @@ Here's the plan of action.
         1. Apriori
         2. Eclat
         3. FP Growth   
- 3. Semi Supervised
+   3. Semi Supervised
     1. Text Classification
     
-6. Usecases - 10 Problem statement -> Code 
+7. Usecases - 10 Problem statement -> Code 
    1. 
    2. 
    3. 
