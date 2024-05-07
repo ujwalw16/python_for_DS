@@ -44,7 +44,7 @@ Here's the plan of action.
     1. Text Classification
     
 7. Usecases - 10 Problem statement -> Code 
-   1. 
+   1. Figuring out which employees may quit
    2. 
    3. 
    4. 
